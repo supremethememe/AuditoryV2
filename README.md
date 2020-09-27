@@ -1,2 +1,2 @@
 # AuditoryV2
-An Audio Visualizer Plugin for Powercord. https://github.com/powercord-community/auditory, but updated, and with new features!
+An Audio Visualizer Plugin for Powercord. [Auditory](https://github.com/powercord-community/auditory), but updated, and with new features!
